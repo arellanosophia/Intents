@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Intents</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="watch_netflix">Watch Netflix</string>
+    <string name="play_music">Play Music</string>
+    <string name="view_a_picture">View a Picture</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
 </resources>
